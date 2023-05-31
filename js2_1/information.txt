@@ -1,0 +1,4 @@
+-DOM = Document Object Model-
+Örneğin kullanıcıdan gelen bilgileri veritabanına kayıt edeceksiniz ve kayıt işlemi için istenen bilgilerin doğruluğu kontrol etmek istiyorsunuz mesela email doğru girilmiş mi ad soyad girmiş mi gibi bir çok kontrol ; bunlaın kontrolünü kullanıcının tarayıcısında yapmak gerekiyor yani butona tıkla sayfa server a gitsin ve bu kontrol yapılsın istemeyiz server i boşuna yormak istemeyiz dolayısıyla bu işlemleri kullanıcı bilgisayarında JAvascript e kontrol ettirsin isteriz ve her bir bir değere ulaşabilmek için bu değeri içeren input etiketine ulaşmak isteriz bu aşamada Javascript Dom gerekiyor yani sayfada ad isimli input kontrolünü bul ve içindeki değeri bana getir bende bunu kontrol edeyim ve doğru bilgi girilmişse ben ok vereyim ve bilgiler server a taşınsın ve veritabanına kayıt edilsin..
+--------------------------------------------------------------------------------
+Tarayıcı içinde js çalıştıracak motor var.
